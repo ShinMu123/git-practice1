@@ -6,3 +6,4 @@ Sửa từ nhánh main
 Sửa từ nhánh conflict-demo
 >>>>>>> conflict-demo
 Thêm ghi chú buổi 2
+Stash 1
